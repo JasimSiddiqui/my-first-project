@@ -1,2 +1,2 @@
 # my-first-project
-CPS109 Project
+CPS109 Project - Scheduler
