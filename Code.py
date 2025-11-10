@@ -39,7 +39,7 @@ etc.
 
 '''
 #Can get todays date in format yyyy-mm-dd
-from datetime import datetime, date, timedelta
+from datetime import datetime
 import os
 
 events = {}
@@ -194,3 +194,4 @@ while True:
     # print(events)
     input('[Press enter to continue]')
     os.system('cls')
+
